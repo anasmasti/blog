@@ -14,7 +14,6 @@
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
-    "@nuxtjs/vuetify": "^1.11.3",
-    "nuxt-vite": "^0.1.0"
+    "@nuxtjs/vuetify": "^1.11.3"
   }
 }
