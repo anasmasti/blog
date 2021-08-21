@@ -1,2 +1,2 @@
-## Bloguy 🚀
+## Blogie 🚀
 > Powred by NuxtJs
