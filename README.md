@@ -1,2 +1,1 @@
 ## Blogie 🚀
-> Powred by NuxtJs
