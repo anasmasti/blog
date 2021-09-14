@@ -1,1 +1,1 @@
-## Blogie 🚀
+## Blogie
